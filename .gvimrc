@@ -1,5 +1,2 @@
-set ruler
-set number
-" 01x
-set guifont=ヒラギノ角ゴ\ StdN\ W8:h20
-
+:colorscheme darkerdesert
+set guifont=Ricty_Diminished:h16
